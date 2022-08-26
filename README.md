@@ -217,7 +217,7 @@ The folder `Models` contanins the three trained models, namely **ResNet50_U-Net*
 
 <!-- LICENSE -->
 ## License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Apache License. See `license.md` for more information.
 
 <!-- CONTACT -->
 ## Contact
